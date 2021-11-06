@@ -16,22 +16,25 @@ Please refer to: https://google.github.io/mediapipe/solutions/hands for more inf
 This module allows for the perception of the shape and motion of hands. 21 landmarks are given to represent the major parts of the users hands, for example: landmark 8 (tip of index finger). 
 
 Example use-cases: Sign Language detector, augmented reality hand tracking, hand gesture controls, robotic hand control.
-
+<img src="https://google.github.io/mediapipe/images/mobile/hand_crops.png" width="500">
 
 ## Face Detection
 Please refer to: https://google.github.io/mediapipe/solutions/face_detection for more information.
 This module allows for the perception of faces. 6 landmarks are given to represent the major parts of the users face.
 
 Example use-cases: Camera Focus, Personel Recognition, face tracking security camera, eye tracker.
+<img src="https://mediapipe.dev/assets/img/photos/demo_face_detector.jpg" width="500">
 
 ## Face Mesh
 Please refer to: https://google.github.io/mediapipe/solutions/face_mesh for more information.
 This module allows for the perception of the shape of faces. 468 landmarks are given to represent the complex shape of the face.
 
 Example use-cases: Social media face filter, virtual face augmentation, deep fake technologies.
+<img src="https://mediapipe.dev/assets/img/photos/faceMesh.jpg" width="500">
 
 ## Pose Tetection
 Please refer to: https://google.github.io/mediapipe/solutions/pose for more information.
 This module allows for the perception of the shape and motion of hands. 33 landmarks are given to represent the major parts of the users body. 
 
 Example use-cases: Augmented Reality, Motion Capture, AI Personal Trainer, Remote Physical Therapy.
+<img src="https://mediapipe.dev/assets/img/photos/pose_1.jpg" width="500">
