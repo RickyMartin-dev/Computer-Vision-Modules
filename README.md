@@ -18,13 +18,13 @@ Example use-cases: Sign Language detector, augmented reality hand tracking, hand
 
 ### Face Detection
 Please refer to: https://google.github.io/mediapipe/solutions/face_detection for more information.
-This module allows for the perception of Faces. 6 landmarks are given to represent the major parts of the users face.
+This module allows for the perception of faces. 6 landmarks are given to represent the major parts of the users face.
 
 Example use-cases: Camera Focus, Personel Recognition, face tracking security camera, eye tracker.
 
 ### Face Mesh
 Please refer to: https://google.github.io/mediapipe/solutions/face_mesh for more information.
-This module allows for the perception of the shape and motion of hands. 468 landmarks are given to represent the complex shape of the face.
+This module allows for the perception of the shape of faces. 468 landmarks are given to represent the complex shape of the face.
 
 Example use-cases: Social media face filter, virtual face augmentation, deep fake technologies.
 
