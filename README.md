@@ -3,7 +3,9 @@
 The modules presented within this repository are simplistic Computer Vision Modules to build other projects atop of. Simply pull this repo and import these modules into other projects to be used. Below are outlines of what this repository contains as well as the documentation needed to further increase learning.
 
 In order to utilize these modules, the OpenCV and MediaPipe Libraries are needed.
+
 OpenCV Homepage: https://opencv.org/
+
 MediaPipe Homepage: https://google.github.io/mediapipe/
 
 All the modules below occur in real-time and utilize the users webcam, however with simple changes to the media input, you could very easily allow this module to work with real time video.
