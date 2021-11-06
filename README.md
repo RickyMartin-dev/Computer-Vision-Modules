@@ -16,6 +16,7 @@ Please refer to: https://google.github.io/mediapipe/solutions/hands for more inf
 This module allows for the perception of the shape and motion of hands. 21 landmarks are given to represent the major parts of the users hands, for example: landmark 8 (tip of index finger). 
 
 Example use-cases: Sign Language detector, augmented reality hand tracking, hand gesture controls, robotic hand control.
+
 <img src="https://google.github.io/mediapipe/images/mobile/hand_crops.png" width="500">
 
 ## Face Detection
